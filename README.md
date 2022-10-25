@@ -24,7 +24,11 @@ The user can easily save their searched trip to the page. Using Local Storage, t
 
 ## Deployed Website
 
+<https://micha2791.github.io/Covid-Traveling/>
+
 ## GitHub Link
+
+<https://github.com/micha2791/Covid-Traveling>
 
 ## Contributor
 
